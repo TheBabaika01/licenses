@@ -1,6 +1,6 @@
 [
     {
-        "license": "hydra_x1",
+        "license": "hydra_x2",
         "ip": "192.168.1.11",
         "active": false
     },
@@ -11,3 +11,4 @@
     }
 
 ]
+
