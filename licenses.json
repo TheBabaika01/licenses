@@ -2,11 +2,12 @@
     {
         "license": "hydra_x1",
         "ip": "192.168.1.11",
-        "active": true
+        "active": false
     },
     {
         "license": "cfxk_cliente2_xxxxx",
         "ip": "111.222.333.44",
         "active": true
     }
+
 ]
